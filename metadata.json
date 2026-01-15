@@ -1,0 +1,8 @@
+{
+  "name": "Neo Farm - Digital Health ID",
+  "description": "A digital medical identifier platform for Central Asia, connecting patients, doctors, and pharmacies via QR codes with multi-language support (RU/UZ).",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
